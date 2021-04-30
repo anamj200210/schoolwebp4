@@ -1,0 +1,108 @@
+body{
+ text-align: center;
+}
+li{
+    display: inline;
+padding: 0px;
+font-family: fantasy;
+
+}
+
+iframe{
+    margin-top: 20px;
+}
+html{
+    scroll-behavior: smooth
+}
+h1{
+    font-size: 30px;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+h3{
+    font-size: 25px;
+}
+.science{
+    height: 100px;
+margin-right: 1500px;
+}
+h4 {
+    font-size: 25px;
+margin-left: 200px;
+}
+.german{
+    margin-right: 870px;
+}
+.cafe{
+    margin-top: 150px;
+margin-right: 1000px;
+margin-bottom: 200px;
+}
+.cafet{
+    margin-bottom: 
+}
+
+
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i{
+    float: right;
+}
+
+.environment_li{
+    margin-top: 13px;
+}
+
+.environment_li h4{
+    border-bottom: 1px solid white;
+padding: 8px;
+}
+
+.environment_li img{
+    border-radius: 30px;
+}
+
+.environment_li p{
+    margin-top: 10px;
+}
+
+.modal-content{
+    margin-top: 100px;
+}
+
+.img_modal{
+    display: inline-block;
+}
+
+.p_modal{
+    margin-top: 10px;
+}
+
+.modal-body{
+text-align: center
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
